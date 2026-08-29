@@ -1,0 +1,17 @@
+name: bqe
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotnine
+  - statsmodels
+  - jupyterlab
+  - ipykernel
+  - pyarrow
+  - requests
+  - pip
