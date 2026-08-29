@@ -1,0 +1,13 @@
+# data — large, possibly licensed, regenerable
+data/raw/
+data/processed/
+
+# python + jupyter noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.conda/
+
+# editor / OS
+.vscode/
+Thumbs.db
